@@ -7,4 +7,3 @@ I can usually speak PHP and C languages. And developing the PocketMin-MP plug-in
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanghyeon-Dev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghyeon-dev&langs_count=3show_icons=true&theme=dark)
   
   # 📘 PockeMine-MP Plugins
-![](https://github-readme-stats.vercel.app/api/pin/?&theme=dark&username=Sanghyeon-dev&repo=Bandinspect)![](https://github-readme-stats.vercel.app/api/pin/?&theme=dark&username=Sanghyeon-dev&repo=PotionAPI)
